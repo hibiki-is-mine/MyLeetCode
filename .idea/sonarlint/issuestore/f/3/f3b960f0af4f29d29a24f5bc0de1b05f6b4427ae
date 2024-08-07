@@ -1,0 +1,6 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ¶¦8º™÷ˆ2J$60ec4a75-0662-4de5-830c-e3c918c47479
+Ÿ
+java:S1845"\Rename method "CountAndSay" to prevent any misunderstanding/clash with method "countAndSay".(ÛÇìö8À™÷ˆ2J$850a7048-2e3f-4e38-ac01-8cc4fc416f16
+r	java:S106	"+Replace this use of System.out by a logger.(‰ù´ùÿÿÿÿ8Â™÷ˆ2J$84512d82-b929-4ac7-a89e-5e94730bf192
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÇìö8Ã™÷ˆ2J$1dc2e30c-afc8-4af6-a8b8-93595d1c237e
