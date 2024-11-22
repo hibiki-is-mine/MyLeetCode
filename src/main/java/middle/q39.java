@@ -1,6 +1,5 @@
 package middle;
 
-import com.sun.xml.internal.ws.config.management.policy.ManagementPolicyValidator;
 import org.junit.Test;
 
 import java.util.*;
