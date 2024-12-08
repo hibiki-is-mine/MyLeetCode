@@ -1,4 +1,4 @@
-package sliding_window_and_double_pointer;
+package sliding_window_and_double_pointer.fixed_length_sliding_window;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package sliding_window_and_double_pointer;
+package sliding_window_and_double_pointer.fixed_length_sliding_window;
 
 /**
  * 2379. 得到 K 个黑块的最少涂色次数
